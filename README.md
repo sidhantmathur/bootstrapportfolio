@@ -13,7 +13,8 @@ Todo-List:
     Adding more content to make the scrolling meaningful
     Add more mobile friendly projects
     Think of a way to sort the web development projects from most to least relevent to viewers
-    
     Keep Learning so you can put more stuff on the portfolio!
+    Make Email Contact a Modal
+    subtitles on skills?
     
   
